@@ -1,0 +1,6 @@
+final_env/
+dl_env/
+face_env/
+__pycache__/
+*.pyc
+attendance.xlsx
